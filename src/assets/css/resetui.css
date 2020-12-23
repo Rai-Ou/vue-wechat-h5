@@ -1,0 +1,18 @@
+.van-uploader__upload,
+.van-uploader__preview-image {
+  width: 277px;
+  height: 188px;
+  margin: 0;
+}
+.i-shenfengzheng .van-uploader__upload {
+  background: url("../images/sfz.png") no-repeat;
+  background-size: 100%;
+}
+.i-xingshizheng1 .van-uploader__upload {
+  background: url("../images/xsz1.png") no-repeat;
+  background-size: 100%;
+}
+.i-xingshizheng2 .van-uploader__upload {
+  background: url("../images/xsz2.png") no-repeat;
+  background-size: 100%;
+}
